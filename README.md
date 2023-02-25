@@ -1,8 +1,8 @@
 # publishdemo
 把自己造的轮子发布到 Go Module上
 
-update1
+updatecmb1
 
-update2
+updatecmb2
 
-update3
+updatecmb3
